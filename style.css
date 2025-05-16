@@ -1,14 +1,19 @@
+*{/*Novo*/
+    margin: 0;/*Novo*/
+    padding:0;/*Novo*/
+} /*Novo*/
+
 .cabecalho{
     background-color: rgb(230, 220, 25);
     color:aqua;
     display: flex;
     justify-content: space-around; 
-    padding: 240px 0; /*Novo*/
-    font-size: 50px; /*Novo*/
+    padding: 240px 0;
+    font-size: 50px;
 }
 
-.cabecalhoListaItem{ /*Novo*/
-    display:inline-block; /*Novo*/
-    margin: 0 120px; /*Novo*/
-    padding: 78px 0; /*Novo*/
+.cabecalhoListaItem{
+    display:inline-block;
+    margin: 0 12px;
+    padding: 5px 0; 
 }
